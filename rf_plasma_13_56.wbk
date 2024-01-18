@@ -1,0 +1,14 @@
+version 2
+1
+9
+.tran 1u 1m{return}.kicad adjustpaths{return}.save all{return}.probe alli
+3
+1
+V(LC_TANK)
+ 
+1
+V(PLASMA_COIL)
+ 
+1
+V(PRIMARY_COIL)
+ 

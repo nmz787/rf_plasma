@@ -808,7 +808,7 @@
     (pin "1" (uuid 0049e651-1f56-4635-85a2-35c51a33233a))
     (pin "3" (uuid 3f9d9530-4354-4b8b-a6de-6748eb93018c))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "Q1") (unit 1)
         )
@@ -843,7 +843,7 @@
     (pin "1" (uuid 404a8a52-eba7-413e-afd3-12b4da2710cd))
     (pin "2" (uuid b435931a-999e-425c-9613-d12380032d9b))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "V1") (unit 1)
         )
@@ -868,7 +868,7 @@
     )
     (pin "1" (uuid bbf8fabf-bab0-467b-81eb-4f8646c2153c))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "#PWR03") (unit 1)
         )
@@ -893,7 +893,7 @@
     )
     (pin "1" (uuid f3b9f19e-ef93-422c-b2eb-d4c5e077942d))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "#PWR04") (unit 1)
         )
@@ -932,7 +932,7 @@
     (pin "1" (uuid c4a771d8-f182-4dd9-8156-a560a892754a))
     (pin "3" (uuid 28f9d27d-adca-461b-94cd-3fcdbc03177c))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "Q2") (unit 1)
         )
@@ -957,7 +957,7 @@
     )
     (pin "1" (uuid d951e1f8-941d-461f-bb27-a75ba878b221))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "#GND01") (unit 1)
         )
@@ -989,7 +989,7 @@
     (pin "1" (uuid 3d627aa5-bb65-4569-8977-456b78d4389f))
     (pin "2" (uuid 16b6ca15-a9ba-45e7-a595-bbaebffa6da0))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "R1") (unit 1)
         )
@@ -1015,7 +1015,7 @@
     (pin "1" (uuid 6e96b442-6fd2-4fe2-bbf6-9a9e98fb9996))
     (pin "2" (uuid cffeeda7-2137-4222-b5ae-6a00e8ccb623))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "L4") (unit 1)
         )
@@ -1041,7 +1041,7 @@
     (pin "1" (uuid f1c4c67b-7a8e-41de-9181-39cb7b4b6da3))
     (pin "2" (uuid e68f105d-ac6c-4978-907a-5bddf75c5221))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "R2") (unit 1)
         )
@@ -1076,7 +1076,7 @@
     (pin "1" (uuid 21d98ab9-e32d-4e95-9ebd-7465b5f53772))
     (pin "2" (uuid 5c33f5a3-fa2e-4c04-9fc7-94c45cc7b24a))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "L1") (unit 1)
         )
@@ -1114,7 +1114,7 @@
     (pin "2" (uuid 7b3f4791-d75b-4ca2-89eb-9592a7d9708d))
     (pin "1" (uuid e25d3cbd-922f-4df1-aa0a-f3290ebb4ce9))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "D1") (unit 1)
         )
@@ -1152,7 +1152,7 @@
     (pin "2" (uuid baa6927c-0e29-49f1-9198-e910d72689ec))
     (pin "1" (uuid 540bab6d-c9b2-42cf-8621-818c31b2bb26))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "D2") (unit 1)
         )
@@ -1178,7 +1178,7 @@
     (pin "1" (uuid 09f4e306-07fe-4cad-8987-4323b273855c))
     (pin "2" (uuid 35091456-b9ec-40b8-9f8b-9b660403046d))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "L2") (unit 1)
         )
@@ -1203,7 +1203,7 @@
     )
     (pin "1" (uuid ea3386c3-b3af-4dc3-a605-a0fa711d8237))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "#PWR01") (unit 1)
         )
@@ -1229,7 +1229,7 @@
     (pin "2" (uuid 91575c87-9d0d-42cf-9b42-450b3dc235db))
     (pin "1" (uuid 26d7bbe2-628b-4709-b7c5-817ad8516f77))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "C1") (unit 1)
         )
@@ -1261,7 +1261,7 @@
     (pin "2" (uuid 55fdeceb-5bd5-4dff-9331-63f936212e56))
     (pin "1" (uuid a6d5d194-69a9-4dd8-9f6a-5e133c48a7eb))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "C2") (unit 1)
         )
@@ -1293,7 +1293,7 @@
     (pin "1" (uuid 219e96d7-110a-4670-b5fe-f5a615fb463a))
     (pin "2" (uuid d52b9c3a-a342-4d9d-9d2a-af250b484754))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "R3") (unit 1)
         )
@@ -1319,7 +1319,7 @@
     (pin "1" (uuid cd039693-1e03-47c0-b4c6-35d5eef9cb7d))
     (pin "2" (uuid f0126a08-0cfc-4c36-98cf-259152d63f8c))
     (instances
-      (project "rf_plasma_13_56"
+      (project "electronoobs_induction_heater"
         (path "/3f199885-850f-4f92-8b6d-64fc361ed912"
           (reference "L3") (unit 1)
         )
